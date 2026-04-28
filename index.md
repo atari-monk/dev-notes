@@ -1,3 +1,4 @@
 ## Git
 
-- [Minimalist Commit Convention](git/commit-convention.md)
+- [Minimalist commit convention](git/commit-convention.md)
+- [Replace last commit](git/replace-last.md)

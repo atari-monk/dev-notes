@@ -4,3 +4,4 @@
 - [Replace last commit](git/replace-last.md)
 - [Remove last commit](git/remove-last.md)
 - [Remove tracking](git/remove-tracking.md)
+- [History viewing](git/history-viewing.md)

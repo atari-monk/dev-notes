@@ -1,18 +1,12 @@
 # Blog
 
-## Table of Contents
-- [Content](#content)
-- [Conventions](#conventions)
+Homepage: [atari-monk.github.io/blog](https://atari-monk.github.io/blog/)
 
 ## Content
 
-**Holds tech notes, notes and links in markdown on github pages**
-
-[Table of Contents](#table-of-contents)
+Technical notes and useful links in Markdown, hosted on GitHub Pages.
 
 ## Conventions
 
 ### Commit Convention
-See: [git/commit-convention.md](git/commit-convention.md)
-
-[Table of Contents](#table-of-contents)
+See: [Minimalist Commit Convention](git/commit-convention.md)

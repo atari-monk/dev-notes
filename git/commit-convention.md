@@ -2,7 +2,7 @@ Here’s a clean **1-line cheat sheet** you can drop into a README or keep as a 
 
 ---
 
-## Commit Convention
+## Minimalist Commit Convention
 
 **Format:**
 

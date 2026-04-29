@@ -5,3 +5,9 @@
 - [Remove last commit](git/remove-last.md)
 - [Remove tracking](git/remove-tracking.md)
 - [History viewing](git/history-viewing.md)
+
+## Markdown
+
+- Table of Contents
+    - [Template](markdown/table-of-contents-template.md)
+    - [Example](markdown/table-of-contents-example.md)

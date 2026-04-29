@@ -1,6 +1,8 @@
 ## Replace last commit
 
-Replaces the last commit with the current staged snapshot and updates the remote branch history.
+Replaces the last commit with a new commit built from the current staged snapshot  
+(which initially matches the previous commit, so unchanged files are preserved),  
+and updates the remote branch history.
 
 ### All
 

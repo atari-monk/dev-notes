@@ -12,9 +12,9 @@
 - Table of Contents
     - [Template](markdown/table-of-contents-template.md)
     - [Example](markdown/table-of-contents-example.md)
-- Blog Post
-    - [Template](markdown/blog-post-template.md)
-    - [Example](markdown/blog-post-example.md)
+- Note
+    - [Template](markdown/note-template.md)
+    - [Example](markdown/note-example.md)
 
 ## Resources
 

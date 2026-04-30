@@ -6,6 +6,7 @@
 - [Remove tracking](git/remove-tracking.md)
 - [History viewing](git/history-viewing.md)
 - [Rename repo](git/rename-repo.md)
+- [Rebase](git/rebase.md)
 
 ## Markdown
 

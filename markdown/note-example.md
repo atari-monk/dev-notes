@@ -1,6 +1,10 @@
-# Title
+## Note Example
 
-## Contents
+## Title
+
+Max 2 words as it is included in page title by default git pages rule.  
+
+### Contents
 - [Section](#section)
   - [Subsection](#subsection)
 - [Section with custom anchor (Optional)](#custom-section)
@@ -8,13 +12,13 @@
 
 ---
 
-## Section
+### Section
 
 Text...
 
 [Contents](#contents)
 
-### Subsection
+#### Subsection
 
 Text...
 
@@ -22,7 +26,7 @@ Text...
 
 ---
 
-## Section with Custom Anchor (Optional) <a id="custom-section"></a>
+### Section with Custom Anchor (Optional) <a id="custom-section"></a>
 
 Sometimes you may want a **stable or cleaner link** than the auto-generated one.
 
@@ -42,7 +46,7 @@ This is useful when:
 
 ---
 
-## Important Note with custom anchor (Optional)
+### Important Note with custom anchor (Optional)
 
 Custom anchors are also useful inside content:
 

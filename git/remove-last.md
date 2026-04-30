@@ -22,7 +22,7 @@ This moves the branch pointer back by one commit; the commit is no longer refere
 
 ---
 
-## One important alternative (often safer)
+### One important alternative (often safer)
 
 If your goal is “undo last commit but keep history clean” in shared branches:
 

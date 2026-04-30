@@ -1,8 +1,6 @@
-Here’s a clean **1-line cheat sheet** you can drop into a README or keep as a reference:
+## Commit Convention
 
----
-
-## Minimalist Commit Convention
+Minimalist commit rules
 
 **Format:**
 

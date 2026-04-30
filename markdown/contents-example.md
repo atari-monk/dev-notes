@@ -1,11 +1,13 @@
-## Contents
+## Contents Example
+
+### Contents
 - [Section1](#section1)
 - [Section2](#section2)
 - [Section3](#section3)
     - [Subsection](#subsection)
     - [Subsection](#subsection2)
 
-## Section1
+### Section1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
 Nunc rutrum tincidunt sapien a congue.  
@@ -18,7 +20,7 @@ Etiam non viverra dolor, vel dignissim risus.
 
 [Contents](#contents)
 
-## Section2
+### Section2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
 Nunc rutrum tincidunt sapien a congue.  
@@ -31,7 +33,7 @@ Etiam non viverra dolor, vel dignissim risus.
 
 [Contents](#contents)
 
-## Section3
+### Section3
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
 Nunc rutrum tincidunt sapien a congue.  
@@ -44,7 +46,7 @@ Etiam non viverra dolor, vel dignissim risus.
 
 [Contents](#contents)
 
-### Subsection
+#### Subsection
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
 Nunc rutrum tincidunt sapien a congue.  
@@ -57,7 +59,7 @@ Etiam non viverra dolor, vel dignissim risus.
 
 [⬆ Contents](#contents)
 
-### Subsection <a id="subsection2"></a>
+#### Subsection <a id="subsection2"></a>
 
 **Custom id can be used when section names duplicate**
 

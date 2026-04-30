@@ -1,13 +1,15 @@
-# Git Rebase: Batch Rename Commit Messages with VS Code
+## Rebase
 
-## Contents
+Batch Rename Commit Messages with VS Code
+
+### Contents
 - [Quick Setup](#quick-setup)
 - [The Process](#the-process)
 - [Commands](#commands)
 
 ---
 
-## Quick Setup
+### Quick Setup
 
 ```bash
 git config --global core.editor "code --wait"
@@ -17,7 +19,7 @@ This lets Git use VS Code for rebase editing instead of vim.
 
 [Contents](#contents)
 
-## The Process
+### The Process
 
 1. **Start rebase from first commit**
    ```bash
@@ -37,7 +39,7 @@ This lets Git use VS Code for rebase editing instead of vim.
 
 [Contents](#contents)
 
-## Commands
+### Commands
 
 ```bash
 # Set editor
@@ -50,7 +52,7 @@ git rebase -i --root
 git push origin main --force
 ```
 
-## Key Points
+### Key Points
 
 - `reword` stops at each commit, lets you edit message, then continues
 - Save + close VS Code tab after each edit to proceed

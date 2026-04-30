@@ -1,20 +1,22 @@
-```md
-# Title
+## Note Template
 
-## Contents
+```md
+## Title
+
+### Contents
 - [Section](#section)
   - [Subsection](#subsection)
 - [Section with custom anchor (Optional)](#custom-section)
 
 ---
 
-## Section
+### Section
 
 Text...
 
 [Contents](#contents)
 
-### Subsection
+#### Subsection
 
 Text...
 
@@ -22,7 +24,7 @@ Text...
 
 ---
 
-## Section with Custom Anchor (Optional) <a id="custom-section"></a>
+### Section with Custom Anchor (Optional) <a id="custom-section"></a>
 
 Custom anchors are also useful inside content (Optional):
 

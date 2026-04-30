@@ -1,6 +1,6 @@
-# Rename Repo
+## Rename Repo
 
-## Contents
+### Contents
 
 * [Rename Repository on GitHub](#rename-repository-on-github)
 * [Update Local Repository](#update-local-repository)
@@ -10,7 +10,7 @@
 
 ---
 
-## Rename Repository on GitHub
+### Rename Repository on GitHub
 
 ```bash
 # No CLI required — done in browser:
@@ -25,7 +25,7 @@
 
 ---
 
-## Update Local Repository
+### Update Local Repository
 
 ```bash
 # Check current remote
@@ -40,7 +40,7 @@ git remote set-url origin git@github.com:<USERNAME>/<NEW_REPO_NAME>.git
 
 [Contents](#contents)
 
-### Verify Changes
+#### Verify Changes
 
 ```bash
 # Confirm new remote URL
@@ -57,7 +57,7 @@ git push
 
 ---
 
-## Rename Local Folder (Optional) <a id="rename-local-folder"></a>
+### Rename Local Folder (Optional) <a id="rename-local-folder"></a>
 
 ```bash
 # Go one level up

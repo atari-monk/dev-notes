@@ -1,4 +1,6 @@
-## Remove Git tracking (safe method)
+## Remove tracking
+
+Remove Git tracking (safe method)
 
 ```sh
 cd /path/to/your/project

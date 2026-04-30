@@ -1,4 +1,6 @@
-## Git
+## Index
+
+### Git
 
 - [Minimalist commit convention](git/commit-convention.md)
 - [Replace last commit](git/replace-last.md)
@@ -8,7 +10,7 @@
 - [Rename repo](git/rename-repo.md)
 - [Rebase](git/rebase.md)
 
-## Markdown
+### Markdown
 
 - Contents
     - [Template](markdown/contents-template.md)
@@ -17,6 +19,6 @@
     - [Template](markdown/note-template.md)
     - [Example](markdown/note-example.md)
 
-## Resources
+### Resources
 
 - [My Github](https://github.com/atari-monk)

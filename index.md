@@ -5,6 +5,7 @@
 - [Remove last commit](git/remove-last.md)
 - [Remove tracking](git/remove-tracking.md)
 - [History viewing](git/history-viewing.md)
+- [Rename repo](git/rename-repo.md)
 
 ## Markdown
 

@@ -4,7 +4,7 @@
 ## Contents
 - [Section](#section)
   - [Subsection](#subsection)
-- [Section with custom anchor](#custom-section)
+- [Section with custom anchor (Optional)](#custom-section)
 
 ---
 
@@ -22,9 +22,9 @@ Text...
 
 ---
 
-## Section with Custom Anchor <a id="custom-section"></a>
+## Section with Custom Anchor (Optional) <a id="custom-section"></a>
 
-Custom anchors are also useful inside content:
+Custom anchors are also useful inside content (Optional):
 
 <a id="important-note"></a>
 **Important Note:** This paragraph explains something critical that you may want to reference directly.

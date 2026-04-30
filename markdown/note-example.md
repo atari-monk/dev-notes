@@ -3,8 +3,8 @@
 ## Contents
 - [Section](#section)
   - [Subsection](#subsection)
-- [Section with custom anchor](#custom-section)
-- [Important Note with custom anchor](#important-note)
+- [Section with custom anchor (Optional)](#custom-section)
+- [Important Note with custom anchor (Optional)](#important-note)
 
 ---
 
@@ -22,7 +22,7 @@ Text...
 
 ---
 
-## Section with Custom Anchor <a id="custom-section"></a>
+## Section with Custom Anchor (Optional) <a id="custom-section"></a>
 
 Sometimes you may want a **stable or cleaner link** than the auto-generated one.
 
@@ -42,7 +42,7 @@ This is useful when:
 
 ---
 
-## Important Note with custom anchor
+## Important Note with custom anchor (Optional)
 
 Custom anchors are also useful inside content:
 

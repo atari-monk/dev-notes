@@ -8,8 +8,5 @@ Technical notes in Markdown, hosted on GitHub Pages.
 
 ## Conventions
 
-### Commit Convention
-See: [Minimalist Commit Convention](git/commit-convention.md)
-
-### Note Template
-See: [Template](markdown/note-template.md)
+- [Commit Convention](git/commit-convention.md) — Minimalist commit rules
+- [Note Template](markdown/note-template.md) — Structure for new notes

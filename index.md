@@ -9,9 +9,9 @@
 
 ## Markdown
 
-- Table of Contents
-    - [Template](markdown/table-of-contents-template.md)
-    - [Example](markdown/table-of-contents-example.md)
+- Contents
+    - [Template](markdown/contents-template.md)
+    - [Example](markdown/contents-example.md)
 - Note
     - [Template](markdown/note-template.md)
     - [Example](markdown/note-example.md)

@@ -19,6 +19,10 @@
     - [Template](markdown/note-template.md)
     - [Example](markdown/note-example.md)
 
+### Github Pages
+
+- [Custom Title](github-pages/custom-title.md)
+
 ### Ubuntu
 
 - [Sys Boot](ubuntu/sys-boot.md)

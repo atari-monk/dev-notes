@@ -1,6 +1,6 @@
-# Dev Notes
+# Tech Notes
 
-Homepage: [atari-monk.github.io/dev-notes](https://atari-monk.github.io/dev-notes/)
+Homepage: [atari-monk.github.io/tech-notes](https://atari-monk.github.io/tech-notes/)
 
 ## Content
 

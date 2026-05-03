@@ -19,6 +19,10 @@
     - [Template](markdown/note-template.md)
     - [Example](markdown/note-example.md)
 
+### Ubuntu
+
+- [Sys Boot](ubuntu/sys-boot.md)
+
 ### Resources
 
 - [My Github](https://github.com/atari-monk)

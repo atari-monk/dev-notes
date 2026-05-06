@@ -12,6 +12,7 @@
 
 ### Markdown
 
+- [Image](markdown/image.md)
 - Contents
     - [Template](markdown/contents-template.md)
     - [Example](markdown/contents-example.md)

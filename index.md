@@ -29,6 +29,10 @@
 - [Sys Boot](ubuntu/sys-boot.md)
 - [yt-dlp](ubuntu/yt-dlp.md)
 
+### AI
+
+- [Dev](ai/dev.md)
+
 ### Resources
 
 - [My Github](https://github.com/atari-monk)

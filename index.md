@@ -23,6 +23,7 @@
 ### Github Pages
 
 - [Custom Title](github-pages/custom-title.md)
+- [No Jekyll](github-pages/no-jekyll.md)
 
 ### Ubuntu
 

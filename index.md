@@ -26,6 +26,7 @@
 ### Ubuntu
 
 - [Sys Boot](ubuntu/sys-boot.md)
+- [yt-dlp](ubuntu/yt-dlp.md)
 
 ### Resources
 

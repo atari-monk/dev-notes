@@ -1,0 +1,2 @@
+# En - Notes taken during coding, knowledge base, published on [page](https://atari-monk.github.io/dev-notes/)
+# Pl - Notatki sporządzone podczas kodowania, baza wiedzy, opublikowane na [stronie](https://atari-monk.github.io/dev-notes/)

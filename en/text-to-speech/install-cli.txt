@@ -1,0 +1,23 @@
+Install CLI.
+
+Install Python CLI globally, on Ubuntu.
+
+Install pipx, once.
+
+Sudo apt install pipx.
+
+Pipx ensure path.
+
+Install CLI with pipx.
+
+Deactivate virtual environment.
+
+Deactivate.
+
+Uninstall CLI.
+
+Pipx uninstall CLI-name.
+
+Install CLI.
+
+Pipx install dash e dot.
